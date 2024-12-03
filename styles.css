@@ -16,7 +16,7 @@ body {
 
 /* Header styling */
 header {
-    background-image: url('./img/'); /* Bakgrunnsbilde for headeren */
+    background-image: url('./img/bilde1.png'); /* Bakgrunnsbilde for headeren */
     background-size: cover; /* Sørger for at bildet dekker headeren */
     background-position: center; /* Plasserer bildet sentralt */
     background-color: rgba(0, 0, 0, 0.5); /* Svart bakgrunn med 50 % gjennomsiktighet */
